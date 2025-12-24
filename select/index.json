@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぴゅあいんざわーるど",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2025-12-24T01:36:04.372836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_ぴゅあいんざわーるど_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_ぴゅあいんざわーるど_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
